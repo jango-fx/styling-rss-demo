@@ -8,7 +8,7 @@
         <title>
           <xsl:value-of select="/atom:feed/atom:title" />
         </title>
-        <link rel="stylesheet" href="/style.css" />
+        <link rel="stylesheet" href="style.css" />
       </head>
 
       <body>
