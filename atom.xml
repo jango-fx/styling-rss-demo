@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/style.xsl" type="text/xsl"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>styling rss</title>
+    <subtitle>Demo how to style Atom feeds via XLS + CSS.</subtitle>
+    <id>https://jango-fx.github.io/styling-rss-demo/</id>
+    <link href="https://jango-fx.github.io/styling-rss-demo/" />
+    <author>
+        <name>jango-fx</name>
+    </author>
+    <updated>2023-06-23T19:07:58+00:00</updated>
+
+    <entry>
+        <title>Example Post</title>
+        <id>https://jango-fx.github.io/styling-rss-demo/example-post</id>
+        <link href="https://jango-fx.github.io/styling-rss-demo/example-post" />
+        <published>2023-06-23T19:07:58+00:00</published>
+        <updated>2023-06-23T19:07:58+00:00</updated>
+        <summary>Lorem ipsum dolor sit amet.</summary>
+        <content type="html">
+        <![CDATA[ 
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+         ]]>
+         </content>
+        <category term="test" />
+        <category term="post" />
+        <category term="category" />
+    </entry>
+
+    <entry>
+        <title>Example Post 2</title>
+        <id>https://jango-fx.github.io/styling-rss-demo/example-post-2</id>
+        <link href="https://jango-fx.github.io/styling-rss-demo/example-post-2" />
+        <published>2023-06-23T19:07:58+00:00</published>
+        <updated>2023-06-23T19:07:58+00:00</updated>
+        <content type="text">
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.        </content>
+        <category term="rss" />
+        <category term="test" />
+    </entry>
+
+    <entry>
+        <title>Example Post 3</title>
+        <id>https://jango-fx.github.io/styling-rss-demo/example-post-4</id>
+        <link href="https://jango-fx.github.io/styling-rss-demo/example-post-4" />
+        <published>2023-06-23T19:07:58+00:00</published>
+        <updated>2023-06-23T19:07:58+00:00</updated>
+        <content type="text">
+            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
+
+            Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet.
+        </content>
+        <category term="atom" />
+    </entry>
+
+    <entry>
+        <title>Example Post 4</title>
+        <id>https://jango-fx.github.io/styling-rss-demo/example-post-4</id>
+        <link href="https://jango-fx.github.io/styling-rss-demo/example-post-4" />
+        <published>2023-06-23T19:07:58+00:00</published>
+        <updated>2023-06-23T19:07:58+00:00</updated>
+        <content type="text">
+            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+        </content>
+        <category term="tag" />
+    </entry>
+
+    <entry>
+        <title>Example Post 5</title>
+        <id>https://jango-fx.github.io/styling-rss-demo/example-post-5</id>
+        <link href="https://jango-fx.github.io/styling-rss-demo/example-post-5" />
+        <published>2023-06-23T19:07:58+00:00</published>
+        <updated>2023-06-23T19:07:58+00:00</updated>
+        <content type="text">
+            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+        </content>
+    </entry>
+
+    <entry>
+        <title>Example Post 6</title>
+        <id>https://jango-fx.github.io/styling-rss-demo/example-post-6</id>
+        <link href="https://jango-fx.github.io/styling-rss-demo/example-post-6" />
+        <published>2023-06-23T19:07:58+00:00</published>
+        <updated>2023-06-23T19:07:58+00:00</updated>
+        <content type="text">
+            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+        </content>
+    </entry>
+</feed>
