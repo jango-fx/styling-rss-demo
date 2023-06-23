@@ -3,7 +3,7 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>styling rss</title>
-    <subtitle>Demo how to style Atom feeds via XLS + CSS.</subtitle>
+    <subtitle>demo of how to style Atom feeds via XLS + CSS.</subtitle>
     <id>https://jango-fx.github.io/styling-rss-demo/</id>
     <link href="https://jango-fx.github.io/styling-rss-demo/" />
     <author>
